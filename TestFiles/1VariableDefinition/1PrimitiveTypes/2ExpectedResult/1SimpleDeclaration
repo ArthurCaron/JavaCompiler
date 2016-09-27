@@ -1,0 +1,9 @@
+byte temperature;
+short vitesseMax;
+int temperatureSoleil;
+long anneeLumiere;
+float pi;
+float nombre;
+double division;
+char caractere;
+boolean question;

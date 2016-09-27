@@ -1,0 +1,19 @@
+byte     temperature;
+	short vitesseMax;
+		int  temperatureSoleil;
+long anneeLumiere	;
+float pi  ;
+float nombre;
+double division;
+char caractere;
+boolean question;
+
+tempers552ature = 64;
+vitesse11Max += 32000;
+__temperatureSoleil ++=+ 15600000;
+anneeLumiere_ /\= 9460700000000000L;
+pi = 3.141592653f;
+no_2mbre = 2.0*f;
+division = 0.3333333-3333*3333/333333333333333333333333333334d;
+caractere = 'A';
+question = true;
